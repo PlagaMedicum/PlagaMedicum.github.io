@@ -56,8 +56,10 @@
 
 ## Кантакты і сацсеткі
 
-- **email:** katoshrodingera@protonmail.ch
-- **Twitter:** [@buljion](https://twitter.com/buljion) — тут часамі можна знайсці мае аналітычныя тэксты, рэакцыіі, навіны.
+- **email**: katoshrodingera@protonmail.ch
+- **Twitter**: [@buljion](https://twitter.com/buljion) — тут часамі можна знайсці мае аналітычныя тэксты, рэакцыіі, навіны.
+- **[GitHub](https://github.com/PlagaMedicum)**
+- **[LinkedIn](https://www.linkedin.com/in/plagamedicum/)**
 
 ### А таксама падпісвайцеся на:
 - 🎓 **ЗБС**: [Telegram](https://t.me/zbsunion), [Instagram](https://www.instagram.com/zbsunion/), [Twitter](https://twitter.com/zbsunion), [Сайт](https://zbsunion.by/).
