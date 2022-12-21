@@ -6,7 +6,7 @@
 
 **Аўтар:** Henrique Lopes de Mendonça
 
-__
+<pre><address>
 Heróis do mar, nobre povo,
 Nação valente, imortal
 Levantai hoje de novo
@@ -51,14 +51,14 @@ Sobre a terra, sobre o mar,
 Às armas, às armas!
 Pela Pátria lutar
 Contra os canhões marchar, marchar!
-__
+</address></pre>
 
 ## Пераклад на беларускую
 
 **Аўтар:** Аляксандр Клюеў
 
-__
-Героі мора, люд шляхетны,
+<pre><address>
+Героі мора, люд шляхетны, 
 Смелы народ, які не паканаць,
 Сёння нам выпаў выклік новы,
 О, Партугаліі веліч паўставай!
@@ -102,7 +102,7 @@ __
 Да зброі, да зброі!
 Уставай, Айчызну барані,
 Маршам пад шквал гармат ідзі!
-__
+</address></pre>
 
 Пераклад распаўсюджваецца пад ліцэнзіяй [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.be).
 
