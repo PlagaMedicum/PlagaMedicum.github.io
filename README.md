@@ -89,6 +89,7 @@
 
 - **email**: katoshrodingera@protonmail.ch
 - **Twitter**: [@buljion](https://twitter.com/buljion) — тут часамі можна знайсці мае аналітычныя тэксты, рэакцыіі, навіны, некаторыя дэтэктыўныя расследаванні, звязаныя з маім пазнаннем беларускай мовы.
+- **<a rel="me" href="https://vkl.world/@buljion">Mastodon</a>** — тут той жа Twitter, толькі лепш і пішу больш па тэматыцы FOSS.
 - **[GitHub](https://github.com/PlagaMedicum)**
 - **[LinkedIn](https://www.linkedin.com/in/plagamedicum/)**
 
