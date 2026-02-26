@@ -1,4 +1,4 @@
-<noscript><a href="https://liberapay.com/buljion"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
+<noscript><a href="https://liberapay.com/buljion/?lang=be"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
 
 # Навігацыя
 
