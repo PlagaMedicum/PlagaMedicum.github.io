@@ -1,3 +1,5 @@
+<noscript><a href="https://liberapay.com/buljion"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
+
 # Навігацыя
 
 Тут я буду збіраць мае праекты, якімі займаюся, ці займаўся, у вольны час і для душы.
